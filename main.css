@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+header 
+{font-family: "LTC Broadway Engraved", "LTC Broadway";
+font-size: 30px;
+text-align: center}
+ul
+{font-family: "Tomarik Display Shadow";
+font-size: 20px;
+display: inline;
+padding-right: 5px;
+padding-bottom: 70px}
+
+img{float: left;
+padding:5%}
+
+p 
+{font-family:"Basco Std ExtraBold";
+font-size: 22px;
+	padding-top: 11px}
+
+footer
+{font-size: 12px;
+padding-top: 50px;
+text-align: center}
+
+a:link {
+  color: black;
+  background-color: transparent;
+	text-decoration: none;}
+container {
+	width: auto;
+	margin: auto
+}
+
